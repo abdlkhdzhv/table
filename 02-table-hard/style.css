@@ -1,0 +1,42 @@
+table {
+  background-color: #f6f6f6;
+  border-collapse: collapse;
+}
+
+td, th {
+  border: 1px solid #999;
+}
+
+th {
+  background: rgb(42, 165, 136);
+  color: white;
+  padding: 6px 12px;
+  color: white;
+  text-align: left;
+  background-color: rgb(42, 165, 136);
+}
+
+.primary {
+  background-color: #000000;
+}
+
+td {
+  padding: 20px;
+  color: black;
+  text-align: left;
+}
+
+.name-animals {
+  background-color: rgb(42, 165, 136);
+  color: white;
+  font-weight: 700;
+}
+
+/* tfoot > tr  {
+  background: black;
+  color: white;
+} */
+
+/* tbody > tr:hover {
+  background-color: #b98ee6;
+} */
